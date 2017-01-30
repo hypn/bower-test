@@ -7,6 +7,10 @@
   ],
   "license": "ISC",
   "homepage": "https://github.com/hypn/bower-test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hypn/bower-test.git"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
