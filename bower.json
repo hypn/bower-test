@@ -1,0 +1,17 @@
+{
+  "name": "hypn-bower-test",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "hypnza"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/hypn/bower-test",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
