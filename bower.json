@@ -17,7 +17,7 @@
     "bower_components",
     "test",
     "tests",
-    "READEME.md",
+    "README.md",
     "bower.json",
     "package.json",
     ".gitignore"
