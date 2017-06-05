@@ -20,12 +20,12 @@
     "README.md",
     "package.json",
     ".gitignore",
-    ".htaccess",
-    "*.php",
-    "*.asp",
-    "*.aspx",
-    "*.ash",
-    "*.ashx",
-    "*.jsp"
+    "**/.htaccess",
+    "**/*.php",
+    "**/*.asp",
+    "**/*.aspx",
+    "**/*.ash",
+    "**/*.ashx",
+    "**/*.jsp"
   ]
 }
