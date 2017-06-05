@@ -18,8 +18,14 @@
     "test",
     "tests",
     "README.md",
-    "bower.json",
     "package.json",
-    ".gitignore"
+    ".gitignore",
+    ".htaccess",
+    "*.php",
+    "*.asp",
+    "*.aspx",
+    "*.ash",
+    "*.ashx",
+    "*.jsp"
   ]
 }
